@@ -1,3 +1,11 @@
+***
+I've already done the Setup part in my computer. If you just downloaded one from forge web, you could compare with my files to do by following the README file content. Also, read the main file's notations carefully. All gradle files are important.
+
+Im also learning by watching the youtube videos: https://www.youtube.com/watch?v=o6Xbp2dTEGA&list=PLKGarocXCE1H9Y21-pxjt5Pt8bW14twa-&index=2
+
+The videos creator is: Modding by Kaupenjoe
+
+***
 
 Source installation information for modders
 -------------------------------------------
