@@ -1,5 +1,6 @@
 package com.martin.tutorialmod;
 
+import com.martin.tutorialmod.item.ModCreativeModTabs;
 import com.martin.tutorialmod.item.ModItems;
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;
@@ -33,6 +34,8 @@ public class TutorialMod
     public TutorialMod()
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        ModCreativeModTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
 
